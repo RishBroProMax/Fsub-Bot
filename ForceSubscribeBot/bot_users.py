@@ -20,4 +20,4 @@ async def users_sql(_, msg: Message):
 async def _stats(_, msg: Message):
     users = await num_users()
     chats = await num_chats()
-    await msg.reply(f"Total Users : {users} \n\nTotal Chats : {chats}", quote=True)
+    await msg.reply(f"🔎Fsub Bot Stats \n\n\n 🍁Total Users : {users} \n\n🍁Total Chats : {chats}", quote=True)
