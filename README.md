@@ -48,7 +48,7 @@ Telegram bot to force users to subscribe a particular chat.
 - `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `DATABASE_URL` - Will be automatically added by Heroku.
-- `MUST_JOIN` - Username/ID of your telegram channel/group.
+- `MUST_JOIN` - Username/ID of your rizalv1:patch-1 channel/group.
 
 ## Functions
 
@@ -67,6 +67,5 @@ Telegram bot to force users to subscribe a particular chat.
 
 ## Support
 
-Channel :- [Emo Bot Devolopers](https://t.me/EmoBotDevolopers
-
+Channel :- [Emo Bot Devorizalv1:patch-1
 Group Chat :- [Emo Bots Support](https://t.me/EmoBotSupport)
