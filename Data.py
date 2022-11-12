@@ -16,17 +16,11 @@ Send /help Visit My Help Menu
 🙈 For All Users 👇👇
 
 🔥 Powered By Emo Network ✓
-
 ☘️ Simple & Friendly BOT ✓
-
 🪤 Keep Original Appearance ✓
-
 🎯 Group Supported ✓
-
 ⚡️ Fast Response ✓
-
 ✅ 24 Hour Active ✓
-
 🤩 New OS ✓
 
 🚀Powerd By @EmoBotDevolopers
