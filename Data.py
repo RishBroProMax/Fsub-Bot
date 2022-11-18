@@ -69,7 +69,7 @@ Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
 
 **Note** - You can also use `/forcesubscribe` instead of `/fsub`
 
-Powerd By [Emo Network](t.me/EmoBotDevolopers)
+🔥 Powerd By [Emo Network](t.me/EmoBotDevolopers)
     """
 
     # About Message
@@ -86,5 +86,7 @@ A Telegram Force Subscribing Bot by @ImRishmika
 
 🍁Developer : @ImRishmika
 
-🖥️Host Sever : Heroku
+🖥️ Host Sever : Heroku 
+
+
     """
