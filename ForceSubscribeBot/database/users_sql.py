@@ -1,8 +1,8 @@
 from sqlalchemy import Column, BIGINT, String
+from . import SESSION
 
 
-
-class Users(BASE):
+class Users(SESSION):
     __tablename__ = "users"
     __table_args__ = {'extend_existing': True}
     user_id = Column(BIGINT, primary_key=True)
