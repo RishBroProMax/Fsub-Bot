@@ -3,7 +3,7 @@ async def admin_check(bot, msg, user_id=None, callback_query=None):
         user_id = msg.from_user.id
     bot_id = (await bot.get_me()).id
     if msg.chat.type not in ["supergroup", "group"]:
-        await msg.reply("♻ This command can only be used in Groups !", quote=True)
+        await msg.reply("♻ This command can only be used in Groups! \n යකෝ ඉස්සෙල්ලම මාව group එකකට add කරලා /fsub or /settings කියලා එවපම් ", quote=True)
         return False
     chat_member = await msg.chat.get_member(user_id)
     bot_chat_member = await msg.chat.get_member(bot_id)
