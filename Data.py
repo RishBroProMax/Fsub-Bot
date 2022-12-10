@@ -41,7 +41,7 @@ Send /help Visit My Help Menu
             InlineKeyboardButton("♾️ About ♾️", callback_data="about")
         ],
         [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/ImRishmika")],
-        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/KatszukiSupport")],
+        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/EmoBotSupport")],
     ]
 
     # Help Message
