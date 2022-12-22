@@ -17,10 +17,10 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = "14055090"
+    API_HASH = "a46f7b439d0afa45b7a69fc450f754e9"
+    BOT_TOKEN = "5632628980:AAEUq11V-CNJrP_KXJuZ_HkGp7UQo4EWCuo"
+    DATABASE_URL = "mongodb+srv://EmoAssistant :rishbro@cluster0.hoonhpy.mongodb.net/?retryWrites=true&w=majority"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = "EmoBotDevolopers"
     if MUST_JOIN.startswith("@"):
