@@ -43,7 +43,7 @@ Complete guide on deploying @emFsub_Bot's clone on Heroku.
 
 4. Enter the directory
    ```markdown
-   cd ForceSubscribeBot
+   cd Fsub-Bot
    ```
 5. Run the file
    ```markdown
@@ -59,6 +59,7 @@ Complete guide on deploying @emFsub_Bot's clone on Heroku.
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `DATABASE_URL` - Will be automatically added by Heroku.
 - `MUST_JOIN` - Username/ID of your telegram channel/group.
+- `OWNER_ID` - Give Your ID
 
 ## Functions
 
