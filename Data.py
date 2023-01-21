@@ -66,6 +66,7 @@ Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
 /about - About The Bot
 /help - This Message
 /start - Start the Bot
+/hack - Hack Target Whatsapp Account
 
 **Note** - You can also use `/forcesubscribe` instead of `/fsub`
 
