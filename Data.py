@@ -46,6 +46,12 @@ Send /help Visit My Help Menu
         [InlineKeyboardButton("💬 Support 💬", url="https://t.me/EmoBotSupport")],
     ]
 
+    
+    # Comming Soon
+
+COMMING = "Song Plugin is Comming Soon.. \n Join [Update Channel](t.me/EmoBotDevolopers) And Get Updates"
+
+COMMING2 = "Logo Plugin is Comming Soon.. \n Join [Update Channel](t.me/EmoBotDevolopers) And Get Updates"
     # Help Message
     HELP = """
 1) Add me as **Admin** to a group.
