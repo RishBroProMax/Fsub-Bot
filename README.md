@@ -8,8 +8,10 @@
 
 Telegram bot to force users to subscribe a particular chat.
 
-
-## Usage
+#### 🎯Get VPS For Life Time
+☆ Video by [RishBroProMax](https://www.youtube.com/@Rish_Bro)
+> 📌 Subscribe Please <br><br>
+[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=yytZstidW1s)
 
 ### Deploy to Heroku
 
@@ -31,6 +33,8 @@ Complete guide on deploying @emFsub_Bot's clone on Heroku.
 > ☘️ Subscribe [Rish Bro](https://youtube.com/@Rish_Bro) Youtube Channel 
 
 ### Local Deploying
+
+Note :- `First update Your packeges`
 
 1. Clone the repo
    ```markdown
