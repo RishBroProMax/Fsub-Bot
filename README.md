@@ -6,12 +6,16 @@
 
 <p align="center"><a href="https://www.github.com//RishBropromax/Fsub-Bott"><img src="https://telegra.ph/file/0c8f543399c4b89cf8278.jpg" width="500"></a></p>
 
-Telegram bot to force users to subscribe a particular chat.
+<p align="center">Telegram bot to force users to subscribe a particular chat.</p>
 
-#### 🎯Get VPS For Life Time
-☆ Video by [RishBroProMax](https://www.youtube.com/@Rish_Bro)
-> 📌 Subscribe Please <br><br>
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=yytZstidW1s)
+### ▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
+                                               
+#### 🎯Get VPS For Life Time                  
+☆ Video by [RishBroProMax](https://www.youtube.com/@Rish_Bro)             
+> 📌 Subscribe Please      <br>             
+[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=yytZstidW1s)   
+                                              
+### ▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
 
 ### Deploy to Heroku
 
