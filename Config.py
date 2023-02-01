@@ -28,6 +28,11 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
+    print(f"Updating...")
+    print(f"Conneting Emo MONGO DB Server..")
+    print(f"Checking BOT_TOKEN...")
+    print(f"Running FSUB API..")
+    print(f"Cloning RishBroPoMax/Fsub-Bot Repo...")
     print(f"@{uname} Started Successfully!")
     idle()
     app.stop()
