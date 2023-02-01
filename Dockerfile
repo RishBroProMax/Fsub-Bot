@@ -8,7 +8,7 @@ USER $USER
 RUN python3 -m venv venv
 WORKDIR /app
 COPY requirements.txt ./requirements.txt
-RUN pip3 install -U -r requirements.txt
+RUN pip3 install -r requirements.txt
 COPY fsubbot.py fsubbot.py
 EXPOSE 5000
 CMD python3 fsubbot.py
