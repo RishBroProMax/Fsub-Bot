@@ -1,4 +1,4 @@
-FROM python-3.10.4
+FROM python-3.10.6
 
 WORKDIR /fsubbot.py
 COPY . /fsubbot.py
