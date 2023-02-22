@@ -15,7 +15,7 @@ Send /help Visit My Help Menu
 
 🔥 Powered By Emo Network ✓
 ☘️ Simple & Friendly BOT ✓
-🪤 Keep Original Appearance ✓
+💥 Keep Original Appearance ✓
 🎯 Group Supported ✓
 ⚡️ Fast Response ✓
 ✅ 24 Hour Active ✓
@@ -37,12 +37,11 @@ Send /help Visit My Help Menu
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("▣——————————————————▣", url="https://youtube.com/@Rish_Bro/")],
-        [InlineKeyboardButton("🪄 Assistant", url="https://t.me/ImRishmika_Bot")],
         [
             InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🌺 About 🌺", callback_data="about")
         ],
-        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/ImRishmika")],
+        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/{OWNER_USERNAME}}")],
         [InlineKeyboardButton("💬 Support 💬", url="https://t.me/EmoBotSupport")],
     ]
 
