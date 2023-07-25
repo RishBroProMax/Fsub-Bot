@@ -36,7 +36,7 @@ Send /help Visit My Help Menu
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("▣——————————————————▣", url="https://youtube.com/@Rish_Bro/")],
+        [InlineKeyboardButton("▣——————Subscribe——————▣", url="https://youtube.com/@Rish_Bro/")],
         [
             InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🌺 About 🌺", callback_data="about")
