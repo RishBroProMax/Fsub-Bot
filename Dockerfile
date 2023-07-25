@@ -18,8 +18,11 @@ RUN python3 -m venv venv
 WORKDIR /app
 
 # Copy the 'requirements.txt' file and install the dependencies
-COPY requirements.txt ./requirements.txt
-RUN pip3 install -r requirements.txt
+RUN pip3 install --upgrade pip
+RUN pip3 install --cache-dir=/pip_cache -r requirements.txt
+RUN mkdir /pip_cache
+
+
 
 # Copy the 'fsubbot.py' file into the container
 COPY fsubbot.py .
